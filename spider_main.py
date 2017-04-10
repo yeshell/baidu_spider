@@ -30,3 +30,4 @@ if __name__=="__main__":
     root_url="http://baike.baidu.com/item/Python"
     obj_spider = SpiderMain()
     obj_spider.craw(root_url)
+print("祝你成功")
